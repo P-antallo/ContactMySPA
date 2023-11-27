@@ -1,0 +1,38 @@
+.icon {
+    text-align: center; 
+  }
+  
+  .icon img {
+    width: 30px; 
+    height: auto; 
+  }
+  
+  .icon span {
+    display: block;
+    color: white;
+    font-size: 12px; 
+    margin-top: 5px; 
+  }
+
+
+  .chat p:first-child {
+    font-weight: bold; 
+    margin-bottom: 3px;
+  }
+  
+  .chat p:last-child {
+    font-style: italic; 
+    margin-top: 3px; 
+  }
+
+ 
+  .profile-info p.profile-name {
+    font-weight: bold; 
+    margin-bottom: 3px; 
+  }
+
+  .profile-info p:not(.profile-name) {
+    font-style: italic; 
+    margin-top: 3px; 
+  }
+  
